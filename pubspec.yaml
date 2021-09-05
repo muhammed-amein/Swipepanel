@@ -1,7 +1,7 @@
 name: Swipepanel
 description: A new Flutter package for animated swipe panel .This works in both Ios and Android. Button text and icons are constumisable
 version: 0.0.1
-homepage: 
+homepage: https://github.com/muhammed-amein/Swipepanel
 
 environment:
   sdk: ">=2.12.0 <3.0.0"
